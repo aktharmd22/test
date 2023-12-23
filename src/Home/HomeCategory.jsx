@@ -7,19 +7,19 @@ const btnText = "Get Started Now";
 
 const categoryList = [
     {
-        imgUrl: '/assets/images/category/01.jpg',
+        imgUrl: './assets/images/category/01.jpg',
         imgAlt: 'Thriller Books',
         iconName: 'icofont-brand-windows',
         title: 'Thriller',
     },
     {
-        imgUrl: '/assets/images/category/02.jpeg',
+        imgUrl: './assets/images/category/02.jpeg',
         imgAlt: 'Fantasy Books',
         iconName: 'icofont-brand-windows',
         title: 'Fantasy',
     },
     {
-        imgUrl: '/assets/images/category/03.jpg',
+        imgUrl: './assets/images/category/03.jpg',
         imgAlt: 'Science Fiction Books',
         iconName: 'icofont-brand-windows',
         title: 'Science Fiction',
