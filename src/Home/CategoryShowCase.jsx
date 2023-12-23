@@ -7,7 +7,7 @@ const title = "Our Products";
 
 const ProductData = [
   {
-    imgUrl: 'src/assets/images/categoryTab/01.jpeg',
+    imgUrl: '/assets/images/categoryTab/01.jpeg',
     cate: 'History',
     title: 'Indian History',
     author: 'assets/images/course/author/01.jpg',
@@ -16,7 +16,7 @@ const ProductData = [
     id: 1,
   },
   {
-    imgUrl: 'src/assets/images/categoryTab/02.jpg',
+    imgUrl: '/assets/images/categoryTab/02.jpg',
     cate: 'History',
     title: 'World History',
     author: 'assets/images/course/author/02.jpg',
@@ -25,7 +25,7 @@ const ProductData = [
     id: 2,
   },
   {
-    imgUrl: 'src/assets/images/categoryTab/03.jpg',
+    imgUrl: '/assets/images/categoryTab/03.jpg',
     cate: 'Biography',
     title: 'Mother Teresa',
     author: 'src/assets/images/categoryTab/brand/apple.png',
@@ -34,7 +34,7 @@ const ProductData = [
     id: 3,
   },
   {
-    imgUrl: 'src/assets/images/categoryTab/04.jpg',
+    imgUrl: '/assets/images/categoryTab/04.jpg',
     cate: 'Biography',
     title: 'History of Stan Lee',
     author: 'assets/images/course/author/04.jpg',
@@ -43,7 +43,7 @@ const ProductData = [
     id: 4,
   },
   {
-    imgUrl: 'src/assets/images/categoryTab/05.jpeg',
+    imgUrl: '/assets/images/categoryTab/05.jpeg',
     cate: 'Fantasy',
     title: 'The Spirit Demon',
     author: 'assets/images/course/author/05.jpg',
@@ -52,7 +52,7 @@ const ProductData = [
     id: 5,
   },
   {
-    imgUrl: 'src/assets/images/categoryTab/06.jpg',
+    imgUrl: '/assets/images/categoryTab/06.jpg',
     cate: 'Fantasy',
     title: 'Curse of Shadowes',
     author: 'assets/images/course/author/06.jpg',
@@ -61,7 +61,7 @@ const ProductData = [
     id: 6,
   },
   {
-    imgUrl: 'src/assets/images/categoryTab/07.png',
+    imgUrl: '/assets/images/categoryTab/07.png',
     cate: 'Sci-Fi',
     title: 'Relic',
     author: 'assets/images/course/author/01.jpg',
@@ -70,7 +70,7 @@ const ProductData = [
     id: 7,
   },
   {
-    imgUrl: 'src/assets/images/categoryTab/08.jpeg',
+    imgUrl: '/assets/images/categoryTab/08.jpeg',
     cate: 'Sci-Fi',
     title: 'The Calculating Stars',
     author: 'assets/images/course/author/02.jpg',
